@@ -1,0 +1,31 @@
+
+body {
+  background-color: rgb(223, 221, 221);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+form {
+  background-color: white;
+  margin: auto;
+  width: 60vw;
+  height: 45vh;
+  display: flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+input {
+  width: 35vw;
+  height: 5vh;
+  font-size: 40px;
+  padding: 8px;
+}
